@@ -9,5 +9,6 @@ body {
 
     height: 100px;
     width: 100px;
-    background-color: #ffff;
+    background-color: #ff0000;
+    display: flex;
 }
