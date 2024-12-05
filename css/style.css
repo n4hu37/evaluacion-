@@ -16,7 +16,6 @@ body {
     top: 100px;
     left: 500px;
     border-radius: 15px;
-    text-decoration: none;
 }
 
 :hover.container-boton{
